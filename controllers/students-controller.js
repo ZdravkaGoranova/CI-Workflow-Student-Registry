@@ -18,7 +18,7 @@ function setup(app, students) {
   });
 
   app.get('/about', function(req, res) {
-    let model = {title: "About"};
+    let model = {title: "About Us"};
     res.render('about', model);
   });
 
