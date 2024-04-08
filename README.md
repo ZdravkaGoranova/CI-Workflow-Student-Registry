@@ -6,3 +6,5 @@ CI Workflow – Student Registry App
 
  - npm start
  - npm test
+### Deploy: 
+https://ci-workflow-student-registry.onrender.com
